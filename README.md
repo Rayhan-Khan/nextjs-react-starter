@@ -1,6 +1,6 @@
 # Next.js React Starter
 
-Reusable private template for new frontend projects. It starts with Next.js 16 App Router, React 19, TypeScript 6, Tailwind CSS 4, ESLint, and a production-ready Node 24 Docker setup. It contains no project-specific branding, API contract, Firebase configuration, or authentication flow.
+Reusable public template for new frontend projects. It starts with Next.js 16 App Router, React 19, TypeScript 6, Tailwind CSS 4, ESLint, and a production-ready Node 24 Docker setup. It contains no project-specific branding, API contract, Firebase configuration, or authentication flow.
 
 ## Use this template
 
